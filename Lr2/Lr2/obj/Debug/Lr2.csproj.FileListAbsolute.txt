@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lr2\Lr2\bin\Debug\Lr2.exe.config
+C:\Users\User\source\repos\Lr2\Lr2\bin\Debug\Lr2.exe
+C:\Users\User\source\repos\Lr2\Lr2\bin\Debug\Lr2.pdb
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.Form1.resources
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.Properties.Resources.resources
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.exe
+C:\Users\User\source\repos\Lr2\Lr2\obj\Debug\Lr2.pdb
