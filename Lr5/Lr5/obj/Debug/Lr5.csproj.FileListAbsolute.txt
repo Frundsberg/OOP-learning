@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lr5\Lr5\bin\Debug\Lr5.exe.config
+C:\Users\User\source\repos\Lr5\Lr5\bin\Debug\Lr5.exe
+C:\Users\User\source\repos\Lr5\Lr5\bin\Debug\Lr5.pdb
+C:\Users\User\source\repos\Lr5\Lr5\obj\Debug\Lr5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lr5\Lr5\obj\Debug\Lr5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lr5\Lr5\obj\Debug\Lr5.exe
+C:\Users\User\source\repos\Lr5\Lr5\obj\Debug\Lr5.pdb
