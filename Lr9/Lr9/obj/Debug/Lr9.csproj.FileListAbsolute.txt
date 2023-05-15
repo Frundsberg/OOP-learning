@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lr9\Lr9\bin\Debug\Lr9.exe.config
+C:\Users\User\source\repos\Lr9\Lr9\bin\Debug\Lr9.exe
+C:\Users\User\source\repos\Lr9\Lr9\bin\Debug\Lr9.pdb
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.Form1.resources
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.Properties.Resources.resources
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.exe
+C:\Users\User\source\repos\Lr9\Lr9\obj\Debug\Lr9.pdb
